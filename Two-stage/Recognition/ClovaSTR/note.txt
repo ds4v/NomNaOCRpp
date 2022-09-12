@@ -1,0 +1,3 @@
+https://github.com/clovaai/deep-text-recognition-benchmark
+https://github.com/opconty/Transformer_STR
+https://github.com/JaidedAI/EasyOCR

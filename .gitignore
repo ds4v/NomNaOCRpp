@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints
+Ignores
+
+# Dataset items
+Dataset
+*.ttf
+
+# Model items
+*.h5
+*.csv
