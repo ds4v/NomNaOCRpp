@@ -1,1 +1,3 @@
+https://github.com/clovaai/deep-text-recognition-benchmark
 https://github.com/JaidedAI/EasyOCR
+# Model choosing criteria: most popular or most modern
